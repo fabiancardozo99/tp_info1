@@ -1,0 +1,14 @@
+{
+    "type": "simulacion_dfa",
+    "dfa": "dfa01.json",
+    "cadena": "010101",
+    "resultado": [
+        "q0",
+        "q1",
+        "q2",
+        "q1",
+        "q2",
+        "q1"
+    ],
+    "aceptada": false
+}

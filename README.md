@@ -1,0 +1,1 @@
+3) Simulador de DFA. Escribir un programa en Python que tome un dfa en formato json (ejemplo en repositorio), tome una cadena de entrada y genere un archivo de salida que represente el funcionamiento del dfa con la cadena dada. (Ejemplo en el repositorio)
